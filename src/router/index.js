@@ -14,6 +14,11 @@ const router = createRouter({
       name: 'about',
       component: () => import('../views/AboutUsView.vue'),
     },
+    {
+      path: '/galeri',
+      name: 'galeri',
+      component: () => import('../views/GaleryView.vue'),
+    },
   ],
 })
 
