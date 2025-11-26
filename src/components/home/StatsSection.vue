@@ -38,7 +38,7 @@
 </template>
 
 <script setup>
-import heartIcon from './icons/heart.svg'
-import peopleIcon from './icons/bluepeople.svg'
-import treeIcon from './icons/tree.svg'
+import heartIcon from '../icons/heart.svg'
+import peopleIcon from '../icons/bluepeople.svg'
+import treeIcon from '../icons/tree.svg'
 </script>

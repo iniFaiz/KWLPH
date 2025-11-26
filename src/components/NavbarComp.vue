@@ -4,7 +4,9 @@
       <div class="flex justify-between h-24">
         <!-- Logo Section -->
         <div class="shrink-0 flex items-center">
-          <img class="h-16 w-auto" :src="logo" alt="Logo KWPLH" />
+          <RouterLink to="/">
+            <img class="h-16 w-auto" :src="logo" alt="Logo KWPLH" />
+          </RouterLink>
         </div>
 
         <!-- Navigation Links (Desktop) -->

@@ -24,5 +24,5 @@
 </template>
 
 <script setup>
-import orangutan from './icons/orangutan.jpg'
+import orangutan from '../icons/orangutan.jpg'
 </script>

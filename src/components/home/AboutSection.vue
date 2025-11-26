@@ -25,5 +25,5 @@
 </template>
 
 <script setup>
-import beruang1 from './icons/beruang1.jpg'
+import beruang1 from '../icons/beruang1.jpg'
 </script>

@@ -9,6 +9,11 @@ const router = createRouter({
       name: 'home',
       component: HomeView,
     },
+    {
+      path: '/tentang-kami',
+      name: 'about',
+      component: () => import('../views/AboutUsView.vue'),
+    },
   ],
 })
 

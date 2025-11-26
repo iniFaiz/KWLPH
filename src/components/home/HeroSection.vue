@@ -36,5 +36,5 @@
 </template>
 
 <script setup>
-import annaDongo from './icons/anna dongo.jpg'
+import annaDongo from '../icons/anna dongo.jpg'
 </script>
