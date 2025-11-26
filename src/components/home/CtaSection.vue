@@ -5,11 +5,12 @@
       <p class="text-white/90 text-lg mb-8">
         Rencanakan kunjungan anda dan jadilah bagian dari upaya konservasi beruang madu
       </p>
-      <button
-        class="bg-white text-[#7A8C7D] hover:bg-gray-100 px-8 py-3 rounded font-bold transition-colors"
+      <RouterLink
+        to="/tiket"
+        class="bg-white text-[#7A8C7D] hover:bg-gray-100 px-8 py-3 rounded font-bold transition-colors inline-block"
       >
         Rencanakan Kunjungan Sekarang
-      </button>
+      </RouterLink>
     </div>
   </section>
 </template>

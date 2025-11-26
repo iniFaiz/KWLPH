@@ -20,16 +20,18 @@
         LINGKUNGAN HIDUP
       </h1>
       <div class="flex space-x-4">
-        <button
+        <RouterLink
+          to="/tiket"
           class="bg-[#7A8C7D] hover:bg-[#657568] text-white px-6 py-3 rounded font-medium transition-colors"
         >
           Rencanakan Kunjungan
-        </button>
-        <button
+        </RouterLink>
+        <RouterLink
+          to="/tentang-kami"
           class="border border-white text-white px-8 py-3 rounded font-medium hover:bg-white/10 transition-colors"
         >
           Detail
-        </button>
+        </RouterLink>
       </div>
     </div>
   </section>

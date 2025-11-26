@@ -86,7 +86,12 @@
           <h3 class="text-lg font-bold mb-4">Ikuti kami</h3>
           <div class="flex space-x-4 mb-8">
             <!-- Instagram -->
-            <a href="#" class="bg-gray-800 p-2 rounded-full hover:bg-gray-700 transition-colors">
+            <a
+              href="https://www.instagram.com/kwplh_balikpapan/"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="bg-gray-800 p-2 rounded-full hover:bg-gray-700 transition-colors"
+            >
               <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
                 <path
                   fill-rule="evenodd"
@@ -96,7 +101,12 @@
               </svg>
             </a>
             <!-- Facebook -->
-            <a href="#" class="bg-gray-800 p-2 rounded-full hover:bg-gray-700 transition-colors">
+            <a
+              href="https://www.facebook.com/KWPLH.Balikpapan/"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="bg-gray-800 p-2 rounded-full hover:bg-gray-700 transition-colors"
+            >
               <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
                 <path
                   fill-rule="evenodd"

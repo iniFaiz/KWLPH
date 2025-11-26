@@ -10,11 +10,12 @@
             hutan-hutan Kalimantan dan Sumatera. Sayangnya, populasi mereka terus menurun akibat
             perburuan liar dan hilangnya habitat alami.
           </p>
-          <button
-            class="bg-[#7A8C7D] hover:bg-[#657568] text-white px-6 py-2 rounded font-medium transition-colors"
+          <RouterLink
+            to="/tentang-kami"
+            class="bg-[#7A8C7D] hover:bg-[#657568] text-white px-6 py-2 rounded font-medium transition-colors inline-block"
           >
             Pelajari Lebih Lanjut
-          </button>
+          </RouterLink>
         </div>
         <div class="rounded-2xl overflow-hidden shadow-lg">
           <img :src="beruang1" alt="Beruang Madu" class="w-full h-full object-cover" />

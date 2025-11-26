@@ -12,11 +12,12 @@
             kami! Temukan foto-foto terbaik dari para beruang madu yang menggemaskan, keasrian
             lingkungan kami, dan senyum ceria para pengunjung yang telah belajar bersama kami.
           </p>
-          <button
-            class="bg-[#7A8C7D] hover:bg-[#657568] text-white px-6 py-2 rounded font-medium transition-colors"
+          <RouterLink
+            to="/galeri"
+            class="bg-[#7A8C7D] hover:bg-[#657568] text-white px-6 py-2 rounded font-medium transition-colors inline-block"
           >
             Lihat Galeri Kami
-          </button>
+          </RouterLink>
         </div>
       </div>
     </div>
