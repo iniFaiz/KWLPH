@@ -31,6 +31,11 @@ const router = createRouter({
       name: 'tiket',
       component: () => import('../views/TicketView.vue'),
     },
+    {
+      path: '/kontak',
+      name: 'kontak',
+      component: () => import('../views/ContactView.vue'),
+    },
   ],
 })
 
