@@ -14,7 +14,7 @@
       <h1
         class="text-white text-4xl md:text-6xl font-bold leading-tight max-w-2xl mb-8 drop-shadow-lg"
       >
-        SELAMAT DATANG DI<br />
+        <span class="text-[#C4D7C8]">SELAMAT DATANG</span> DI<br />
         KAWASAN WISATA<br />
         PENDIDIKAN<br />
         LINGKUNGAN HIDUP

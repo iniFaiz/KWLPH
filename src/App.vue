@@ -5,7 +5,7 @@ import FooterComp from './components/FooterComp.vue'
 </script>
 
 <template>
-  <header>
+  <header class="sticky top-0 z-50">
     <NavbarComp />
   </header>
 
