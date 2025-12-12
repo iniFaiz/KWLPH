@@ -42,3 +42,5 @@ npm run build
 ```sh
 npm run lint
 ```
+### REPORT
+NavbarComp.Vue, AboutMeView.vue, fotorapi.jpg, about-me folder, CardComp.vue, SkillComp.vue, index.js

@@ -35,6 +35,12 @@
           >
             Kontak
           </RouterLink>
+          <RouterLink
+            to="/about-me"
+            class="text-black font-bold text-sm uppercase tracking-wide hover:text-green-600 transition-colors"
+          >
+            About Me
+          </RouterLink>
         </div>
 
         <!-- Mobile menu button -->
@@ -94,6 +100,11 @@
           to="/kontak"
           class="block px-3 py-2 rounded-md text-base font-bold text-black hover:text-green-600 hover:bg-gray-50 uppercase"
           >Kontak</RouterLink
+        >
+        <RouterLink
+          to="/about-me"
+          class="block px-3 py-2 rounded-md text-base font-bold text-black hover:text-green-600 hover:bg-gray-50 uppercase"
+          >About Me</RouterLink
         >
       </div>
     </div>
