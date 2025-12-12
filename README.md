@@ -44,3 +44,4 @@ npm run lint
 ```
 ### REPORT
 NavbarComp.Vue, AboutMeView.vue, fotorapi.jpg, about-me folder, CardComp.vue, SkillComp.vue, index.js
+router link new page di /about-me
